@@ -1,0 +1,15 @@
+canvas{
+  border:solid 1px black;
+}
+h1{
+  background-color: orange;
+  font-size: 2em;
+  color: purple;
+  text-shadow: 5px 5px 5px 5px;
+  border:1px solid black;
+  text-align: center;
+}
+
+body{
+  background-color: purple;
+}
